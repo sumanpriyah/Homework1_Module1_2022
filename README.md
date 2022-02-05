@@ -29,15 +29,19 @@ Both campaigns as per the graph went up in Feb, May and October and went down in
 - What can you conclude about the Outcomes based on Goals?
 
 **1)** When goals are less than percentage success is more which means if Louise keeps the goals below 10,000 then chances of Success Kickstarter is greater. 
+
 **2)** Other factor which contributes to Successful Kickstarter is the number of backers. If number of backers are more then chances of successful campaign are higher. 
 
 - What are some limitations of this dataset?
 
 **1)** Age group for backers was not provided 
+
 **2)** House hold Income of the backers was not provided
+
 **3)** Other factor which was contributing to higher pass/fail is not clear as the data based on Goals where goals are outlier(very high).
 
 - What are some other possible tables and/or graphs that we could create?
 
 **1)** Table and graph based on Date Ended Conversion column
+
 **2)** Based on Country 
