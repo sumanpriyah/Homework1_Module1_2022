@@ -12,7 +12,7 @@ Overall more number of campaigns are launched in Summer time frame- May , June a
 
 **Successful Kickstarter campaigns-** Based on the data provided for "theater", successful Kickstarter campaigns are high in May and June. In feb, April and August the results are similar. From graph The results moved up in Feb, May and October.
 
-**Failed Kickstarter campaigns-**Results  are high in May, June, July and October. Results are similar in Jan, March, Sept ,Nov.
+**Failed Kickstarter campaigns-** Results  are high in May, June, July and October. Results are similar in Jan, March, Sept ,Nov.
 
 **Canceled-** Mostly number of canceled compaigns are in Jan.
 
@@ -26,7 +26,7 @@ Both campaigns as per the graph went up in Feb, May and October and went down in
 
 ## Results
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-- 
+
 **1)** Over all number of campaigns are launched during May, June and July which means if Louise launched her campaign during that time specially in May when most number of successful campaigns are launched the chances of success seems more as per the data. 
 
 **2)** If Louise launch her campaign in US or GB where there are more number of launch then other countries
