@@ -25,19 +25,19 @@ Successful Kickstarter campaigns and failed Kickstarter campaigns both are in hi
 Both campaigns as per the graph went up in Feb, May and October and went down in March and Sept so there is another factor which is contributing to the change. 
 
 ## Results
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+- **What are two conclusions you can draw about the Outcomes based on Launch Date?**
 
 **1)** Over all number of campaigns are launched during May, June and July which means if Louise launched her campaign during that time specially in May when most number of successful campaigns are launched the chances of success seems more as per the data. 
 
 **2)** If Louise launch her campaign in US or GB where there are more number of launch then other countries
 
-- What can you conclude about the Outcomes based on Goals?
+- **What can you conclude about the Outcomes based on Goals?**
 
 **1)** When goals are less than percentage success is more which means if Louise keeps the goals below 10,000 then chances of Success Kickstarter is greater. 
 
 **2)** Other factor which contributes to Successful Kickstarter is the number of backers. If number of backers are more then chances of successful campaign are higher. 
 
-- What are some limitations of this dataset?
+- **What are some limitations of this dataset?**
 
 **1)** Age group for backers was not provided 
 
@@ -45,7 +45,7 @@ Both campaigns as per the graph went up in Feb, May and October and went down in
 
 **3)** Other factor which was contributing to higher pass/fail is not clear as the data based on Goals where goals are outlier(very high).
 
-- What are some other possible tables and/or graphs that we could create?
+- **What are some other possible tables and/or graphs that we could create?**
 
 **1)** Table and graph based on Date Ended Conversion column
 
