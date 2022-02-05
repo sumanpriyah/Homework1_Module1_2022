@@ -1,6 +1,6 @@
-# Kickstarting with Excel
+# **Kickstarting with Excel**
 
-## Overview of Project
+## **Overview of Project**
 In this project analysis is done on campaigns outcomes based on their Launch Date and Goals on data provided by using Filtering, conditional formatting Pivot tables , VLOOKUP, Charts and graphs.
 ### Purpose 
 The purpose of this project is to help Louise to get successful campaign based on the outcomes by Launched dates and goals using Kickstarter data for similar Category and Subcategory.
