@@ -31,7 +31,7 @@ python- 3.9.7 , conda 4.10.3, jupyter 1.0.0
 ## Results:
 ### District Summary
 The approx passing percentage for Maths-75%, reading-86% and overall is 65%. The District summary did not change much after replacing 9th grade maths and reading score with "nan"
- !["District summary before and after 9th grade scores replaced with nan](https://github.com/sumanpriyah/School_District_Analysis/blob/main/Images/Results/District_summary.png)
+ !["District summary before and after 9th grade scores replaced with nan"](https://github.com/sumanpriyah/School_District_Analysis/blob/main/Images/Results/District_summary.png)
 
 ### School Summary
 The school summary did impact for Thomas High School after replacing 9th grade math and reading score with "nan". 
@@ -47,7 +47,9 @@ Thomas high school does not comes in the top 5 schools if calculations are done 
 !["Thomas High School performance"](https://github.com/sumanpriyah/School_District_Analysis/blob/main/Images/Results/Thomas_high_school_performance.png)
 
 ### Replacing the ninth-grade scores affect the following:
+
 Math and reading scores by grade - For 9th grade math and reading scores are displaying as "nan" 
+
 !["Scores as nan"](https://github.com/sumanpriyah/School_District_Analysis/blob/main/Images/replacing%209th%20grade%20scores/Average%20score%20by%20grade%20per%20school.png)
 
 Scores by school spending - The score went down as per school spending 
