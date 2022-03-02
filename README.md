@@ -1,5 +1,3 @@
-# Homework1_Module1_2022
-Homework Assignment 1- Kickstarter Analysis
 # School_District_Analysis
 
 ## Overview of the school district analysis:
@@ -19,31 +17,31 @@ the upcoming school year.
 	-School performance based on the school size 
 	-School performance based on the type of school
 	
-###software used
+### software used
 python- 3.9.7 , conda 4.10.3, jupyter 1.0.0
 
 ## Results:
-###District Summary
+### District Summary
 The approx passing percentage for Maths-75%, reading-86% and overall is 65%. The District summary did not change much after replacing 9th grade maths and reading score with "nan"
 
-###school summary
+### school summary
 The school summary did impact for Thomas High School after replacing 9th grade math and reading score with "nan". 
 The math passing percentage went from 93.27 to 66.91
 The reading passing percentage went from 97.31 to 69.66
 The overall passing percentage went from 90.95 to 65.08
 
-###Thomas High School Performance
+### Thomas High School Performance
 After replacing the math and reading score with "nan" for 9th grade the overall performance of school went down if the 9th grade was included in overall performance.
 Thomas high school does not comes in the top 5 schools if calculations are done with 9th grade.Where the performance is calculated only based on 10th to 12th grade then the math, reading and overall passing percentage is good as compare to including 9th grade scores.
 
-###How does replacing the ninth-grade scores affect the following:
+### How does replacing the ninth-grade scores affect the following:
 Math and reading scores by grade - For 9th grade math and reading scores are "nan"
 Scores by school spending - The score went down as per school spending 
 Scores by school size- The score went down as per school size
 Scores by school type- The overall score went down as per school type. 
 
 
-##Summary:
+## Summary:
 Initially analysis was done on the data provided but later analysis was done by updating 9th grade math and reading score replaced with "nan" due to some academic dishonesty.
 Prefixes and Suffixes from the student data - dataframe were removed so that they align with their school records. For analysis school_data_df was merged with student_data_df using merge method
 After replacing the 9th grade score to "nan" the passing percentage for - math, reading and overall as per school type got reduced. Thomas High School 9th grade impacted overall 
