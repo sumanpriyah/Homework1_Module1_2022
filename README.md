@@ -11,16 +11,12 @@ the upcoming school year.
 2) An overview of the key metrics for each school, presented in a table format
 3) Tables presenting each of the following metrics:
 	-Top 5 and bottom 5 performing schools, based on the overall passing rate
-	-The average math score received by students in each grade level at each school
-	!["Average Math Score"](https://github.com/sumanpriyah/School_District_Analysis/blob/main/Images/Deliverables/Average%20maths%20score%20by%20grade%20per%20school.png)
+	-The average math score received by students in each grade level at each school	
 	-The average reading score received by students in each grade level at each school
-	!["Average reading Score"](https://github.com/sumanpriyah/School_District_Analysis/blob/main/Images/Deliverables/Average%20reading%20score%20by%20grade%20per%20school.png)
-	-School performance based on the budget per student
-	!["School performance based on the budget per student"](https://github.com/sumanpriyah/School_District_Analysis/blob/main/Images/Deliverables/school_performance_budget_per_student.png)
+	-School performance based on the budget per student	
 	-School performance based on the school size 
-	!["School performance based on the school size"](https://github.com/sumanpriyah/School_District_Analysis/blob/main/Images/Deliverables/school_performance_school_size.png)
 	-School performance based on the type of school
-	!["School performance based on the type of school"](https://github.com/sumanpriyah/School_District_Analysis/blob/main/Images/Deliverables/school_performance_school_size.png)
+
 
 ### software used
 python- 3.9.7 , conda 4.10.3, jupyter 1.0.0
@@ -45,8 +41,11 @@ Thomas high school does not comes in the top 5 schools if calculations are done 
 
 ### How does replacing the ninth-grade scores affect the following:
 Math and reading scores by grade - For 9th grade math and reading scores are "nan"
+
 Scores by school spending - The score went down as per school spending 
+
 Scores by school size- The score went down as per school size
+
 Scores by school type- The overall score went down as per school type. 
 
 
