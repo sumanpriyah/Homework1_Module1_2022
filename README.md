@@ -44,7 +44,7 @@ The overall passing percentage went from 90.95 to 65.08
 After replacing the math and reading score with "nan" for 9th grade the overall performance of school went down if the 9th grade was included in overall performance.
 Thomas high school does not comes in the top 5 schools if calculations are done with 9th grade.Where the performance is calculated only based on 10th to 12th grade then the math, reading and overall passing percentage is good as compare to including 9th grade scores.
 
-![Thomas High School performance](https://github.com/sumanpriyah/School_District_Analysis/blob/main/Images/Results/Thomas_high_school_performance.png)
+!["Thomas High School performance"](https://github.com/sumanpriyah/School_District_Analysis/blob/main/Images/Results/Thomas_high_school_performance.png)
 
 ### Replacing the ninth-grade scores affect the following:
 Math and reading scores by grade - For 9th grade math and reading scores are displaying as "nan" 
@@ -73,8 +73,6 @@ for overall low performance. The Charter schools are doing better seems like sch
 !["School performance as per size"](https://github.com/sumanpriyah/School_District_Analysis/blob/main/Images/Deliverables/school_performance_school_size.png)
 
 !["School performance as per school type"](https://github.com/sumanpriyah/School_District_Analysis/blob/main/Images/Deliverables/school_performance_school_type.png)
-
-
 
 
 
