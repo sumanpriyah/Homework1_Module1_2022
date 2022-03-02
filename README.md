@@ -1,4 +1,5 @@
 # School_District_Analysis
+!["Alt text for image"](https://github.com/sumanpriyah/Homework1_Module1_2022/blob/main/Resources/Outcomes_vs_Goals.png)
 
 ## Overview of the school district analysis:
 In this project we need to deliver below deliverables for the analysis of the school disctrict though Jupyter notebook using Python libraries such as Pandas. 
