@@ -25,7 +25,7 @@ the upcoming school year.
 	
 
 
-### software used
+### Software Used
 python- 3.9.7 , conda 4.10.3, jupyter 1.0.0
 
 ## Results:
@@ -33,7 +33,7 @@ python- 3.9.7 , conda 4.10.3, jupyter 1.0.0
 The approx passing percentage for Maths-75%, reading-86% and overall is 65%. The District summary did not change much after replacing 9th grade maths and reading score with "nan"
  !["District summary before and after 9th grade scores replaced with nan](https://github.com/sumanpriyah/School_District_Analysis/blob/main/Images/Results/District_summary.png)
 
-### school summary
+### School Summary
 The school summary did impact for Thomas High School after replacing 9th grade math and reading score with "nan". 
 The math passing percentage went from 93.27 to 66.91
 The reading passing percentage went from 97.31 to 69.66
@@ -46,8 +46,9 @@ Thomas high school does not comes in the top 5 schools if calculations are done 
 
 ![Thomas High School performance](https://github.com/sumanpriyah/School_District_Analysis/blob/main/Images/Results/Thomas_high_school_performance.png)
 
-### How does replacing the ninth-grade scores affect the following:
-Math and reading scores by grade - For 9th grade math and reading scores are "nan"
+### Replacing the ninth-grade scores affect the following:
+Math and reading scores by grade - For 9th grade math and reading scores are displaying as "nan" 
+!["Scores as nan"](https://github.com/sumanpriyah/School_District_Analysis/blob/main/Images/replacing%209th%20grade%20scores/Average%20score%20by%20grade%20per%20school.png)
 
 Scores by school spending - The score went down as per school spending 
 
@@ -55,6 +56,7 @@ Scores by school size- The score went down as per school size
 
 Scores by school type- The overall score went down as per school type. 
 
+!["Schhol Summary after replacing 9th grade scores"](https://github.com/sumanpriyah/School_District_Analysis/blob/main/Images/replacing%209th%20grade%20scores/school_summary_after.png)
 
 ## Summary:
 Initially analysis was done on the data provided but later analysis was done by updating 9th grade math and reading score replaced with "nan" due to some academic dishonesty.
@@ -68,6 +70,9 @@ of 53.51
 Overall lowest performing schools all are District schools - Bailey High School, Figueroa High School,Ford High School,Hernandez High School,Huang High School,Johnson High School,
 Rodriguez High School even they are getting per school budget better than charter schools. All District schools are large with studnet range from 2000 to 5000 and could be reason 
 for overall low performance. The Charter schools are doing better seems like school size is medium or smaller
+!["School performance as per size"](https://github.com/sumanpriyah/School_District_Analysis/blob/main/Images/Deliverables/school_performance_school_size.png)
+
+!["School performance as per school type"](https://github.com/sumanpriyah/School_District_Analysis/blob/main/Images/Deliverables/school_performance_school_type.png)
 
 
 
